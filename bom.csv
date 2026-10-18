@@ -1,0 +1,5 @@
+"Reference","Value","Footprint","QUANTITY"
+"CAN1-CAN5","Conn_01x02","Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical","5"
+"ESCPower1-ESCPower4","Conn_01x02","Connector_AMASS:AMASS_XT30U-F_1x02_P5.0mm_Vertical","4"
+"Vin1","Conn_01x02","Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical","1"
+"Vout1","Conn_01x06","Connector_JST:JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical","1"
